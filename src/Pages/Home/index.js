@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className='Home-style container'>
       Hola mundo Home
-      <button className='btn btn-warning'>Ingresar</button>
+      <button className='btn btn-warning'>Ingresara</button>
       <Outlet/>
     
     </div>
