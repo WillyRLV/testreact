@@ -1,0 +1,30 @@
+
+.logo{
+    font-size: 2em;
+    color: aqua;
+}
+.Nav-style{
+    background-color: rgb(165, 159, 159);
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.Nav-style ul{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+}
+
+.Nav-style ul li {
+    list-style-type: none;
+}
+
+.Nav-style ul li a{
+    color: rgb(29, 169, 111);
+    font-size: 1.4em;
+    text-decoration: none;
+}
